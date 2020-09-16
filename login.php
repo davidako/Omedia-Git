@@ -1,3 +1,3 @@
 <?php
 
-echo "Login page\n";
+echo "Login page";
